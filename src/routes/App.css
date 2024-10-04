@@ -27,3 +27,11 @@
   margin-left: 10%;
   margin-top: 50px;
 }
+
+.welcomeMessage {
+  margin: 150px;
+}
+
+.spinner {
+  margin: 10% 0;
+}
