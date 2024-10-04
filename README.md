@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 "# socialMediaApp-v2" 
 "# socialMediaApp-v2" 
 "# socialMediaApp-v2" 
+"# socialMediaApp" 
